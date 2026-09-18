@@ -1,0 +1,10 @@
+{
+  "description": "Enables seamless interaction with an AI receptionist by connecting frontend features to backend systems for efficient visitor management and support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
